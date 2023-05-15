@@ -27,3 +27,5 @@ import sys
 print(sys.executable)
 C:\WorkSpace\pytest10\.venv\Scripts\python.exe -m pip install openai
 ```
+Study Material:
+https://www.youtube.com/watch?v=wfiuYm19wL0 
